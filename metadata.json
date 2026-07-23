@@ -1,0 +1,6 @@
+{
+  "name": "HooramMarket",
+  "description": "An enterprise-level, premium full-stack e-commerce marketplace featuring rich catalogs, AI shopping assistant, real-time cart/checkout, dynamic dashboards, and deep analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
